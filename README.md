@@ -1,5 +1,2 @@
-### [Hướng dẫn tạo website chúc mừng sinh nhật và upload lên host để gởi cho bạn bè || Part 2](https://)
-> Các bạn download source về và làm theo hương dẫn trong video nhé.
-
-
-![cover picture](./img/hpbd2021p2.jpg)
+Nhi !
+[b](https://user-images.githubusercontent.com/117796470/209497446-621537cc-991c-4f58-a26b-67221fcbcfd4.jpg)
