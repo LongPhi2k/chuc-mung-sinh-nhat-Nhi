@@ -1,2 +1,2 @@
-Nhi !
-(https://user-images.githubusercontent.com/117796470/209497446-621537cc-991c-4f58-a26b-67221fcbcfd4.jpg)
+Nhi 
+![b](https://user-images.githubusercontent.com/117796470/209497504-84875a49-3ff6-43c9-a944-5c419c7887e2.jpg)
